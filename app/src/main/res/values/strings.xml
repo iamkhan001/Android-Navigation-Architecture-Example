@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Navigation Example</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_navigation_example">Welcome To Navigation Example</string>
+
+    <string-array name="colors">
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Gray</item>
+    </string-array>
+
+</resources>
